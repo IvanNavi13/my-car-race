@@ -1,4 +1,5 @@
-# MyCarRice
+# MyCarRace
+# Ejercicio 1 - Termino Modulo 1 - Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
